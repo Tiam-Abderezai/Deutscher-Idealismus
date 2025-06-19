@@ -1,17 +1,44 @@
-# Deutscher-Idealismus
+                                                          Deutscher Idealismus
 
 
 (source: https://philosophymaps.wordpress.com/2014/10/18/german-idealism/)
 ![image](https://github.com/user-attachments/assets/477c20f4-2088-4381-a1c8-d0f1a51801fc)
-Der deutsche Idealismus beginnt mit Kants Erkenntnistheorie als Synthese zwischen der rationalistischen und der empiristischen Denkschule. Zuvor war das Wissen dichotomisiert in a priori und a posteriori Sätze; eine Aussage war wahr/falsch durch Überprüfung mit/ohne Erfahrung durch Notwendigkeit. Eine solche Unterscheidung war jedoch fälschlicherweise mit den grammatischen Strukturen in den von der aristotelischen Logik abgeleiteten Sprachsystemen verwechselt worden; in Fortführung der dualistischen Tradition trifft Kant die feinere Unterscheidung, dass Prädikate entweder vollständig im Subjekt enthalten sein können (analytisch) oder außerhalb desselben (synthetisch). Die strukturelle Dekonstruktion von Sätzen könnte dann unterteilt werden in analytisch-aprior (definitorisch), analytisch-a-posteriori (definitionsgemäß unmöglich), synthetisch-a-priori (fragwürdig) und synthetisch-a-posteriori (common-sense). Die Rationalisten beschränken die Wahrheitsansprüche auf das analytische-a priori i, die Empiristen auf das synthetische-a posteriori, wobei beide Lager die Ansprüche des jeweils anderen ablehnen. Kant argumentiert, dass die Sätze der Metaphysik, der Geometrie und der Mathematik synthethische Apriori sind, bei denen Wahrheitsansprüche außerhalb des Subjekts gestellt werden können, ohne dass ein Appell an die Erfahrung erforderlich ist; um solche Ansprüche zu beweisen, bedarf es eines „transzendentalen Arguments“ oder eines Appells an notwendige Annahmen, die alle Vorstellungen und geistigen Akte strukturieren.
+Der Deutsche Idealismus war eine bedeutende philosophische Bewegung im Deutschland des späten 18. und frühen 19. Jahrhunderts, die in erster Linie auf den Arbeiten von Immanuel Kant aufbaute und auf diese reagierte. Er versuchte, Rationalismus und Empirismus in Einklang zu bringen, und betonte die Rolle des Geistes bei der Gestaltung unseres Verständnisses der Realität. Zu den Schlüsselfiguren gehören Kant, Fichte, Schelling und Hegel. Die Bewegung hatte einen erheblichen Einfluss auf die spätere Philosophie, Ästhetik und politische Theorie.
 
-Kant argumentiert, dass alle unsere Intuitionen (Wahrnehmungen) entlang einer Mannigfaltigkeit von Raum und Zeit organisiert sein müssen, die außerhalb des Subjekts liegt. Um ein Objekt zu erfahren, bedarf es einer Repräsentation entlang räumlich-zeitlicher Achsen; Objekte müssen eine Region einnehmen (abgegrenzt werden), und wir ordnen unsere Intuitionen geistig in Sequenzen (Abfolge) an, um eine Trennung durch das Gedächtnis (Zeit) zu schaffen. Die Repräsentation muss weiter in begriffliche Strukturen differenziert werden (Kategorien zur Organisation der Dinge in Raum und Zeit, Schema), damit unsere sinnlichen Eingaben zu Dingen werden; Unsere Dinge haben Quantität (Einheit als eine Wahrnehmung, Pluralität als viele Wahrnehmungen, Totalität als Vereinigung aller Wahrnehmungen über Momente in der Zeit), Qualität (Negation als Normalzustand, Realität als anormaler Zustand oder etwas ist in der Zeit vorhanden, Begrenzung als Besetzung der Gegenwart unter vielen), Relation (Inhärenz/Subsistenz als Persistenz des Subjekts oder die Zeitlichkeit von Prädikate im Zeitverlauf, Kausalität als Notwendigkeit von Wahrnehmungen aus ihren zeitlichen Vorläufern, Reziprozität als Dynamik zwischen Prädikaten verschiedener Subjekte) und Modalität (ich vergleiche dies mit einem Wahrscheinlichkeitsraum verschiedener Realisierungen und ihrer Kovarianzen). Ein solches Schema ermöglicht und begrenzt die Art von metaphysischen Wahrheitsansprüchen, die man stellen kann. Viele der von den Rationalisten aufgestellten Behauptungen lassen sich mit Hilfe transzendentaler Argumente sowohl aus der ursprünglichen Behauptung als auch aus ihren Negationen beweisen; „Antinomien“ wie die Behauptung, dass die Raumzeit einen Anfang und ein Ende hat und dass die Raumzeit unendlich ist, werden als jenseits der Vernunft erwiesen. Indem er den Raum der Erkenntnis, der sich aus der systematisierenden Funktion der Vernunft und der Begrenztheit der Phänomene ergibt (das Ding an sich oder die Noumena kann niemals erkannt werden), einschränkt, lässt Kant seine Ergänzung für den Glauben offen.
+1. **Kants transzendentaler Idealismus**:
+* Kants „Kritik der reinen Vernunft“ (1781) gilt als der Ausgangspunkt des deutschen Idealismus. 
+
+* Er vertrat die Ansicht, dass unser Wissen sowohl durch den Verstand (a priori Strukturen) als auch durch die Erfahrung (a posteriori Daten) geprägt ist. 
+
+* In seinem transzendentalen Idealismus vertrat er die Ansicht, dass wir zwar nur die Erscheinungen, nicht aber die Dinge an sich kennen können, der Verstand jedoch eine aktive Rolle bei der Strukturierung unserer Erfahrung spielt.
+
+2. **Die Postkantianer**:
+* Johann Gottlieb Fichte:
+Er entwickelte eine Form des Idealismus, die das "Ich" oder das Selbst als grundlegendes Prinzip der Wirklichkeit betonte. Seine Philosophie konzentrierte sich auf die Aktivität des Ichs und seine Rolle bei der Schaffung der Welt.
+
+* Friedrich Schelling:
+Ursprünglich Fichte nahe stehend, entwickelte Schelling später eine Naturphilosophie, die die Einheit von Natur und Geist betonte. Er wandte sich einer eher pantheistischen Sichtweise zu und sah die Natur als Ausdruck des Absoluten.
+
+* Georg Wilhelm Friedrich Hegel:
+Hegels Philosophie ist ein komplexes System, das Logik, Geschichte und Kultur umfasst. Er entwickelte das Konzept der Dialektik (These, Antithese, Synthese), um die Entwicklung des Denkens und der Realität zu erklären.
+
+3. **Hauptthemen**:
+* Das Absolute:
+Ein zentrales Konzept, das oft als die ultimative Realität oder die Quelle aller Dinge verstanden wird, die oft als jenseits des menschlichen Verständnisses, aber durch Vernunft oder Intuition zugänglich ist. 
+
+* Die Rolle der Vernunft:
+Die deutschen Idealisten betonten die Macht der Vernunft, erkannten aber auch deren Grenzen und die Bedeutung der Erfahrung an. Sie versuchten zu verstehen, in welchem Verhältnis Vernunft und Erfahrung zueinander stehen, um unser Wissen zu formen. 
+
+* Die Natur der Wirklichkeit:
+Sie setzten sich mit der Frage auseinander, ob die Wirklichkeit grundsätzlich geistig oder materiell ist und wie sich der Geist und die äußere Welt zueinander verhalten. 
+
+* Freiheit und Selbstbewußtsein:
+Die idealistischen Philosophen untersuchten das Wesen der menschlichen Freiheit und die Rolle des Selbstbewusstseins bei der Verwirklichung dieser Freiheit. 
+
+* Einfluss auf die spätere Philosophie:
+Der Deutsche Idealismus hat spätere philosophische Strömungen wie den Existentialismus, die Phänomenologie und den Marxismus stark beeinflusst.
 
 ![image](https://github.com/user-attachments/assets/635edffa-16d0-4462-81f0-493614f674a8)
-
-Kants ethisches Werk befasst sich mit der Universalität der Pflicht (Deontologie) unter der Prämisse, dass die Moral eine Freiheit voraussetzt, die die Vernunft nicht nachweisen kann, sondern als gegeben voraussetzen muss; indem Handlungen auf kausale Gesetze verwiesen werden, wird die Fähigkeit der Vernunft untergraben, den Willen zu beeinflussen.  Die Dinge in der Welt werden dadurch als vernunftbegabt oder vernunftlos klassifiziert (Akteure und Dinge, auf die nur gehandelt werden kann oder die nur kausalen Gesetzen folgen können). Als Akteure müssen die Prinzipien, nach denen gehandelt wird, andere Akteure als Selbstzweck und nicht als Mittel zum Zweck behandeln; andernfalls würde die Freiheit, die die Vernunft voraussetzt, untergraben und der Mensch wieder zum Tier werden (Freiheit ist ein Gut). Die Folge ist die Universalisierung von Maximen zu Gesetzen, die die Freiheit aller Akteure nicht prinzipiell untergraben (kategorischer Imperativ); die Moral einer Handlung wird nicht nach den Realitäten, sondern nach ihrem Motiv und ihrer Vernunft beurteilt. Ich finde solche Gesetze ähnlich wie Rousseaus Allgemeiner Wille und analog zu Konvergenzgesetzen, die zu global optimalen Lösungen führen. Diese universalisierende Perspektive wird von späteren deutschen Philosophen wie Fiche, Schelling und Hegel (mit dem ich mich als Nächstes befassen werde) durch ihre Ausweitung von moralischen Urteilen auf die gesamte Vernunft radikalisiert.
-
-Hegel suchte nach einem universellen Gesetz, das die Entwicklung des Selbstbewusstseins, der Erfahrung, der Vernunft und der Wirklichkeit im Sinne der Dialektik von Grund auf erklären sollte (Evolution des Geistes).  Sein Ausgangspunkt ist anthropozentrisch, da er das menschliche Bewusstsein als grundlegend mit der Beziehung zwischen dem Selbst und dem Anderen befasst darstellt. Die Analogie von Herr und Sklave ist ein Hauptbeispiel, bei dem zwei Bewusstseine durch gegenseitige Anerkennung Selbstbestimmung anstreben, aber scheitern; der Herr identifiziert sich mit seiner Macht über den Sklaven durch die Todesstrafe, während der Sklave sich mit der Beherrschung/Objektivierung der Umwelt als Ausgleich für die Bedrohung durch seinen Herrn identifiziert. Beide Parteien werden nicht vollständig selbstbestimmt oder frei, da die Anerkennung asymmetrisch ist. Der Herr kann seinen Sklaven nicht töten, weil er sonst seine Identität verliert; der Leibeigene bleibt in anderen Angelegenheiten machtlos. Dieses Ringen um die Selbstbestimmung der Individuen kann nicht außerhalb des ethischen Lebens (z.B. der persönlichen Moral) gelöst werden, dessen konkrete Form letztlich im Staat verwirklicht wird. Ein solcher Prozess ist in der Hegelschen Logik begründet, die eine triadische Struktur aufweist.
 
 ![image](https://github.com/user-attachments/assets/25648c7c-4873-4e97-b4ff-544f5c13d7f4)
 
